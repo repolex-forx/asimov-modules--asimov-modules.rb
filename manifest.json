@@ -61,7 +61,9 @@
           "githubUrl": "https://github.com/openai/openai-python",
           "source": "build_file:requirements.txt"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/3763173d377fd10b01ef577d33afc878d650a475/chunk-001.nq.gz",
+      "dep": "dep/3763173d377fd10b01ef577d33afc878d650a475.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",

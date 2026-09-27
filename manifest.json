@@ -27,6 +27,40 @@
       ],
       "ast": [
         "aggregate/ast/3763173d377fd10b01ef577d33afc878d650a475/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/3763173d377fd10b01ef577d33afc878d650a475.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "anthropic",
+          "ecosystem": "PYPI",
+          "version": "1.8.0",
+          "githubOrg": "anthropics",
+          "githubRepo": "anthropic-sdk-python",
+          "githubCommit": "4421d56a4dd23550c7097c9b7ab5668bd11e09c4",
+          "githubTag": "v1.8.0",
+          "githubUrl": "https://github.com/anthropics/anthropic-sdk-python",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "goodreads",
+          "ecosystem": "PYPI",
+          "version": "0.3.2",
+          "githubOrg": "sefakilic",
+          "githubRepo": "goodreads",
+          "githubUrl": "https://github.com/sefakilic/goodreads",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "openai",
+          "ecosystem": "PYPI",
+          "version": "3.19.2",
+          "githubOrg": "openai",
+          "githubRepo": "openai-python",
+          "githubCommit": "d9f7b7a085d4f2173756590abeffeb7a8c7641dd",
+          "githubTag": "v3.19.2",
+          "githubUrl": "https://github.com/openai/openai-python",
+          "source": "build_file:requirements.txt"
+        }
       ]
     }
   ],
